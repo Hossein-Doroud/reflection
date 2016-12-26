@@ -9,14 +9,20 @@ I do not know exactly.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+I can put all modified files in staging area until a considred task is done then I commit the whole changes at once
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+I really in love with branch idea. it is what I need it badly. there are several situation which I wanted to develop my program in just one way for doing an experiment while I prefer to do not modify the main code. So branch idea can help me in this way a lot.
+
 How do the diagrams help you visualize the branch structure?
+
+That is quite easy to get lost and miss lots of effort without having any vision about the branch and how to travers them
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Team collaboration
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
